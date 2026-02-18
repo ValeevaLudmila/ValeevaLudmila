@@ -4,14 +4,6 @@
 В предыдущем опыте развила навыки работы с требованиями, системного анализа, планирования и взаимодействия с клиентами. В тестировании придерживаюсь структурированного подхода: анализирую риски, проверяю граничные значения, стремлюсь к полному покрытию сценариев и прозрачной отчётности.
 Развиваюсь в направлении автоматизации тестирования и углубляю знания Python и API.
 
-### **🛠 Технологии и инструменты**
-
-Автоматизация:
-Python, pytest, Selenium WebDriver, requests, pytest-cov, Allure
-
-Тестирование:
-Postman, Swagger / Apidoc, Charles, Android Studio
-
 ### 🛠 Мой стек технологий
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -26,13 +18,6 @@ Postman, Swagger / Apidoc, Charles, Android Studio
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Charles](https://img.shields.io/badge/Charles-00BFFF?style=for-the-badge)
-
-
-Базы данных:
-SQL
-
-Инструменты и среда:
-Git, GitHub, Figma
 
 ### **📫 Контакты**
 Email: ludmila7v@yandex.ru
